@@ -24,5 +24,5 @@ Holes were drilled into the plexiglass so there were roughly equally spaced and 
 
 Here are some pics of the finished assembly.
 
-[TM990_backplane + mechanicals](./TM990_backplane+mechanicals-crop1.png) <p>
+[TM990_backplane + mechanicals](./TM990_backplane+mechanicals-crop1.png)  
 [TM990_backplane + TM990/100MA + TM990/311](TM990_100MA+311-crop1.png)
